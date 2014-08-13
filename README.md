@@ -1,4 +1,4 @@
-# hubot-hubot-getty-connect
+# hubot-getty-connect
 
 A hubot script for displaying random stock photographs via the getty connect api
 
@@ -8,17 +8,10 @@ See [`src/hubot-getty-connect.coffee`](src/hubot-getty-connect.coffee) for full 
 
 In hubot project repo, run:
 
-`npm install hubot-hubot-getty-connect --save`
+`npm install hubot-getty-connect --save`
 
-Then add **hubot-hubot-getty-connect** to your `external-scripts.json`:
+Then add **hubot-getty-connect** to your `external-scripts.json`:
 
 ```json
-["hubot-hubot-getty-connect"]
-```
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
+["hubot-getty-connect"]
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "hubot-hubot-getty-connect",
+  "name": "hubot-getty-connect",
   "description": "A hubot script for displaying random stock photographs via the getty connect api",
   "version": "0.0.1",
   "author": "Brian Van S <brianvans@gmail.com>",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianvans/hubot-hubot-getty-connect.git"
+    "url": "git://github.com/brianvans/hubot-getty-connect.git"
   },
 
   "bugs": {
-    "url": "https://github.com/brianvans/hubot-hubot-getty-connect/issues"
+    "url": "https://github.com/brianvans/hubot-getty-connect/issues"
   },
 
   "dependencies": {
