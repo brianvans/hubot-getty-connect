@@ -1,0 +1,32 @@
+{
+  "name": "hubot-hubot-getty-connect",
+  "description": "A hubot script for displaying random stock photographs via the getty connect api",
+  "version": "0.0.1",
+  "author": "Brian Van S <brianvans@gmail.com>",
+  "license": "MIT",
+
+  "keywords": ["hubot-scripts","getty images","getty connect","stock photography"],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianvans/hubot-hubot-getty-connect.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/brianvans/hubot-hubot-getty-connect/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*",
+    "matchdep": "~0.1.2",
+  },
+
+  "main": "index.coffee",
+}
